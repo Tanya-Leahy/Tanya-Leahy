@@ -20,7 +20,7 @@
 ---
 ### ℹ️ About Me
 
-I am a dedicated Operations Coordinator with a passion for optimizing workflows and driving efficiency in dynamic environments. With 28 years experience in administration, 16 years of those in education, I specialize in managing logistics, resources, and teams to achieve organizational objectives with precision.
+I am a dedicated Operations Coordinator with a passion for optimizing workflows and driving efficiency in dynamic environments. With 28 years experience in senior administration, 16 years of those in education, I specialize in managing logistics, resources, and teams to achieve organizational objectives with precision.
 
 My expertise lies in identifying operational bottlenecks and implementing strategic solutions to streamline processes and enhance productivity. I excel in automating manual processes, setting new procedures, and streamlining existing ones to improve overall efficiency.
 
