@@ -1,6 +1,9 @@
 # Tanya Leahy
+## SSW Operations Coordinator
+🎓 Diploma of Business Management
 
-## Skills
+---
+### 🛠️Skills 
 
 - Operations Management
 - Team Leadership
@@ -14,7 +17,8 @@
 - Software Setup Configuration
 - Database Management
 
-## About Me
+---
+### ℹ️ About Me
 
 I am a dedicated Operations Coordinator with a passion for optimizing workflows and driving efficiency in dynamic environments. With 28 years experience in administration, 16 years of those in education, I specialize in managing logistics, resources, and teams to achieve organizational objectives with precision.
 
