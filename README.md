@@ -27,3 +27,4 @@ My expertise lies in identifying operational bottlenecks and implementing strate
 I have a proven track record of training others and configuring new software setups, as well as managing complex databases. I thrive in fast-paced settings where adaptability and quick decision-making are crucial, and I am committed to continuous improvement and operational excellence.
 
 Feel free to connect with me on https://www.linkedin.com/in/tanya-leahy-3599402ab/!
+ [![Tanya's github stats](https://github-readme-stats.vercel.app/api?username=Tanya-Leahy&theme=dark)](https://github.com/Tanya-Leahy/github-readme-stats)
