@@ -3,9 +3,7 @@
 ## Skills
 
 - Operations Management
-- Logistics Coordination
 - Team Leadership
-- Process Optimization
 - Cross-functional Collaboration
 - Strategic Planning
 - Problem Solving
